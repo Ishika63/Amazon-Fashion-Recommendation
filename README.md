@@ -5,7 +5,7 @@ Used Amazon Product Advertising API to gather data locally and used those files 
 1. Natural Language Processing on Product Description
 2. Convolutional Neural Network on Product Images
 
-### Natural Language Processing (NLP) on Product Descriptions
+### 1. Natural Language Processing (NLP) on Product Descriptions
 
 **Approach Overview:**
 
@@ -27,7 +27,7 @@ In the NLP approach, we employ Natural Language Processing techniques to analyze
    - Collaborative Filtering: Recommending items based on user behavior and preferences, combined with text-based features.
 
 
-### Convolutional Neural Network (CNN) on Product Images
+### 2. Convolutional Neural Network (CNN) on Product Images
 
 **Approach Overview:**
 
